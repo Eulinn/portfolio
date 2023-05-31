@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c90ec77a.css",
-    "main.js": "/portfolio/static/js/main.33f1d02a.js",
+    "main.css": "/portfolio/static/css/main.37140670.css",
+    "main.js": "/portfolio/static/js/main.14961d6e.js",
+    "static/media/svg": "/portfolio/static/media/a07bcad627607b6777616f8e058e8917.9e187a92fad76a8367a2.svg",
+    "static/media/eot": "/portfolio/static/media/a07bcad627607b6777616f8e058e8917.577ce1b040aa21c9b843.eot",
+    "static/media/ttf": "/portfolio/static/media/a07bcad627607b6777616f8e058e8917.79f9950fa2081b1051e7.ttf",
+    "static/media/CaviarDreams.ttf": "/portfolio/static/media/CaviarDreams.174b0a13f7e49c169450.ttf",
+    "static/media/CaviarDreams_Bold.ttf": "/portfolio/static/media/CaviarDreams_Bold.1062ba91167e0c325786.ttf",
+    "static/media/woff": "/portfolio/static/media/a07bcad627607b6777616f8e058e8917.aa5bed23cebcafa8740f.woff",
+    "static/media/Rocket Regular.otf": "/portfolio/static/media/Rocket Regular.ede597c06dd26b9b051e.otf",
+    "static/media/woff2": "/portfolio/static/media/a07bcad627607b6777616f8e058e8917.cc73d2e7dd270a8d75c8.woff2",
     "index.html": "/portfolio/index.html",
-    "main.c90ec77a.css.map": "/portfolio/static/css/main.c90ec77a.css.map",
-    "main.33f1d02a.js.map": "/portfolio/static/js/main.33f1d02a.js.map"
+    "main.37140670.css.map": "/portfolio/static/css/main.37140670.css.map",
+    "main.14961d6e.js.map": "/portfolio/static/js/main.14961d6e.js.map"
   },
   "entrypoints": [
-    "static/css/main.c90ec77a.css",
-    "static/js/main.33f1d02a.js"
+    "static/css/main.37140670.css",
+    "static/js/main.14961d6e.js"
   ]
 }
