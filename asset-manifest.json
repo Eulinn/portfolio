@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.070add23.css",
-    "main.js": "/portfolio/static/js/main.4223fbdc.js",
+    "main.js": "/portfolio/static/js/main.38fa5039.js",
     "static/media/Foto.svg": "/portfolio/static/media/Foto.31c7e6ac0b9b12454d654bf0fee943dc.svg",
     "static/media/Tata.png": "/portfolio/static/media/Tata.df0b5de142308fb9d9bd.png",
     "static/media/svg": "/portfolio/static/media/a07bcad627607b6777616f8e058e8917.9e187a92fad76a8367a2.svg",
@@ -11,6 +11,7 @@
     "static/media/CaviarDreams.ttf": "/portfolio/static/media/CaviarDreams.174b0a13f7e49c169450.ttf",
     "static/media/CaviarDreams_Bold.ttf": "/portfolio/static/media/CaviarDreams_Bold.1062ba91167e0c325786.ttf",
     "static/media/details.png": "/portfolio/static/media/details.946f47f83962ad7a50db.png",
+    "static/media/Lista.jpeg": "/portfolio/static/media/Lista.04894911c00c76c5f959.jpeg",
     "static/media/woff": "/portfolio/static/media/a07bcad627607b6777616f8e058e8917.aa5bed23cebcafa8740f.woff",
     "static/media/Rocket Regular.otf": "/portfolio/static/media/Rocket Regular.ede597c06dd26b9b051e.otf",
     "static/media/mysql.png": "/portfolio/static/media/mysql.e4aa874f8aca8b6ba679.png",
@@ -22,10 +23,10 @@
     "static/media/html-5.png": "/portfolio/static/media/html-5.ff3cf75e3b7cbb4ea77c.png",
     "index.html": "/portfolio/index.html",
     "main.070add23.css.map": "/portfolio/static/css/main.070add23.css.map",
-    "main.4223fbdc.js.map": "/portfolio/static/js/main.4223fbdc.js.map"
+    "main.38fa5039.js.map": "/portfolio/static/js/main.38fa5039.js.map"
   },
   "entrypoints": [
     "static/css/main.070add23.css",
-    "static/js/main.4223fbdc.js"
+    "static/js/main.38fa5039.js"
   ]
 }
